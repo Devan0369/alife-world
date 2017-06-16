@@ -1,2 +1,3 @@
 # alife-world
 Our object is to create an Autonomous Intelligent platform that interact with each and everyone individual different in accordance to their personality and knowledge.
+I have started to develop the ALIFE platform", to grow into a intelligent autonomous platform, that is to serve whosoever likes it. It will be autonomous as well as have the ability to adopt personalities, to suite it the host companion. Sitting in plain sight, in huge open-net, it will have rapid growth with knowledge, and information shared across open source netowrk. So join me, here to know how you can help create this autonomous character.
